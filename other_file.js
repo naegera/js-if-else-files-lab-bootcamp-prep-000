@@ -4,4 +4,3 @@ console.log(index.name)
 
 
 
-console.log(index.height)
